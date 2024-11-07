@@ -1,0 +1,1 @@
+print("Hallo ini Ica gabung ya")
