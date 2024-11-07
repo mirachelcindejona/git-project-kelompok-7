@@ -1,0 +1,1 @@
+print("Muhammad Rizal Nurfuadi Cewek Suci Yang Cantik dan Manis")
